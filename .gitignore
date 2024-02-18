@@ -1,0 +1,7 @@
+/target/
+/project/target
+/.idea
+/.bsp
+/.git
+/.DS_Store
+/src/main/.DS_Store
